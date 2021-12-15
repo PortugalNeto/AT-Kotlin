@@ -58,6 +58,8 @@ class ListFragment : Fragment() {
 
             viewModel.incluir(lead)
         }
+
         return root
+
     }
 }

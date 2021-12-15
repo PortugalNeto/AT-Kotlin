@@ -2,6 +2,7 @@ package com.example.assesment_kotlin_trimestre1.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface LeadDao {
